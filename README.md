@@ -10,15 +10,15 @@ To start a new project, you will have to prepare the following files and get rea
 
 - and a directory where all timetable scheduling results will be saved.
 
-You can get the templates of two workbooks (mentioned above) in the <resources> folder under this repository. Please start formating your data using templates provided.
+You can get the templates of two workbooks (mentioned above) in the resources folder under this repository. Please start formating your data using templates provided.
 
 ## User Manual
 
-- Click the <Clone or download> button (which is located at the top-right corner of this page) to download the whole project to a zipped file
+- Click the Clone or download button (which is located at the top-right corner of this page) to download the whole project to a zipped file
  
 - Uncompress the zip and run timetable.jar
 
-- Click the <Start New Project> button and follow the instructions
+- Click the Start New Project button and follow the instructions
 
 
 ## Functional Requirements
