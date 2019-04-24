@@ -35,6 +35,7 @@ The program is able to output at most four types of results:
 
 - timetable-for-each-student.pdf (optional)
 
+```diff
 Please note that this program, like all optimization programs, cannot ensure a good result will be returned in polynomial time, i.e., there is little possibility that the program will run to a dead end and never stop. Hence, in this case, please restart the software and run again. I tested the reliablity of this program and found it is about 95% reliable (1 out of 20 never stops).
-
+```
 
